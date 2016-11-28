@@ -25,6 +25,3 @@ https://forums.taleworlds.com/index.php?topic=72279.0
     # `carry_positions.txt` in other languages other than English
     env LC_NUMERIC=C ./openBrf
 
-Alternatively there's also a ready-to-use _AUR_ package that might come in handy if you are using _Arch Linux_ (helpfully provided by Swyter):
-
-https://aur.archlinux.org/packages/openbrf/
