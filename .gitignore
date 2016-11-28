@@ -2,3 +2,8 @@
 *~
 tmp
 qrc_resource.cpp
+
+# build
+.qmake.stash
+Makefile
+openBrf
